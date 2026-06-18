@@ -710,7 +710,7 @@ body {
 }
 
 .filter-select {
-  background: rgba(255, 255, 255, 0.04) !important;
+  background: #211c2b !important;
   border: 1px solid var(--border-subtle) !important;
   border-radius: var(--radius-sm) !important;
   color: var(--text-primary) !important;
